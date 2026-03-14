@@ -9,6 +9,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/Mercedes-Benz",
+  base: "/Mercedes-Benz/",
 })
  

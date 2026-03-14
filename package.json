@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages-clean && gh-pages -d dist"
+    "deploy": "gh-pages-clean && gh-pages -d dist --before-add ./scripts/gh-pages-before-add.cjs"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
