@@ -343,7 +343,7 @@ const page = () => {
       {/* part footer */}
 
       <footer>
-        <img src={img2} />
+        <img style={{ maxWidth: "200px", marginLeft: "2rem" }} src={img2} />
         <a href="#Home">Home</a>
         <a href="#About">About</a>
         <a href="#Models">Models</a>

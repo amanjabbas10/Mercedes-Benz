@@ -344,13 +344,13 @@ margin-top: 3rem;
 margin-left: 20rem;
 margin-right:20rem;
 }
-
 footer{  
     margin-top: 9rem;
     border-radius: 24px 24px 0 0;
     background: #393E46;
     display:flex;
     align-items: center;
+    padding: 10px;
 }
 footer a{
 margin-left: 5rem;
