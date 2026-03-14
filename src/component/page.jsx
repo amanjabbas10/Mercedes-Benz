@@ -1,5 +1,5 @@
 import img2 from "../assets/Mercedes-Benz1.png";
-import img3 from "../assets/_2026-AMG-GT63-APXGP-2DR-COUPE.png";
+import img3 from "../assets/background-niceeeee.png";
 import img4 from "../assets/Mercedes-AMG-GT-63-APXGP-Edition_3.png";
 import Video from "../assets/2.MP4";
 import img5 from "../assets/price 1.png";
