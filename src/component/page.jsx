@@ -1,7 +1,7 @@
 import img2 from "../assets/Mercedes-Benz1.png";
 import img3 from "../assets/background-niceeeee.png";
 import img4 from "../assets/Mercedes-AMG-GT-63-APXGP-Edition_3.png";
-import Video from "../assets/2.MP4";
+import Video from "../assets/this good for useing.mp4";
 import img5 from "../assets/price 1.png";
 import img6 from "../assets/price 3.png";
 import img7 from "../assets/price 4.png";
